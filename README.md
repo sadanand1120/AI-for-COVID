@@ -8,7 +8,7 @@ The `scripts/all_behaviours.py` takes care of all behaviour functions we want to
 
 ## For Using/Testing:
 
-First, get the checkpoint file from [here](https://drive.google.com/drive/folders/1UlF6PmTwwd4cm-wD9v6Qy7gbC_tzif_j). Then place the two input videos in the `videos/input` folder.
+First, get the checkpoint file from [here](https://drive.google.com/drive/folders/1UlF6PmTwwd4cm-wD9v6Qy7gbC_tzif_j) and place it in `face-mask_model_info` folder. Then place the two input videos in the `videos/input` folder.
 
 The main script is `integrating_behaviours.py`. It takes two command line args, one each for two input videos.
 
