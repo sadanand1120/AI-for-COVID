@@ -1,0 +1,10 @@
+numpy
+pillow
+torch==1.4.0
+tqdm
+terminaltables
+torchvision==0.5.0
+matplotlib
+tensorboard
+opencv-python
+imutils
